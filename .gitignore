@@ -1,3 +1,13 @@
+# Large data files
+*.csv
+!data/raw/samples/*.csv
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
